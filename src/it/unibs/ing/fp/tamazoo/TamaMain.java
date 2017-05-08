@@ -1,7 +1,6 @@
 package it.unibs.ing.fp.tamazoo;
 
-import mylib.*;
-
+import it.unibs.fp.mylib.*;
 public class TamaMain 
 {
 
